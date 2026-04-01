@@ -6,7 +6,7 @@ function App() {
   return (
     <>
 <ul>
-     <Message myname="ahmad" salary={1000} title="HR"/>
+     <Message myname="ahmad" salary={2000} title="HR"/>
       <Message myname="sami" salary={1000} title="Web developer" />
 </ul>
    
